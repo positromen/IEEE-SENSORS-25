@@ -1,0 +1,26 @@
+{
+  "field_replay": {
+    "samples": 2116.0,
+    "windows": 220.0,
+    "windows_unknown": 217.0,
+    "v2_bytes": 683425.0,
+    "v3_bytes": 22258.0,
+    "v2_messages": 6348.0,
+    "v3_messages": 206.0,
+    "payload_reduction_pct": 96.7
+  },
+  "field_replay_alert_types": [
+    "SENSOR FAULT"
+  ],
+  "bench": {
+    "windows_scored": 87,
+    "windows_correct": 85,
+    "window_accuracy_pct": 97.7,
+    "alerts_raised": [
+      "AGITATION",
+      "ANOMALY",
+      "FALL / CAST",
+      "SENSOR FAULT"
+    ]
+  }
+}

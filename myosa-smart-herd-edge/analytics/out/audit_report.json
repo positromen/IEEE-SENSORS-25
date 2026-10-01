@@ -1,0 +1,29 @@
+{
+  "raw_rows": 12796,
+  "log_start": "2025-01-17 03:52:49",
+  "log_end": "2025-01-17 14:00:47",
+  "log_hours": 10.13,
+  "cycles": 2116,
+  "cycles_with_imu": 2094,
+  "fault_rate_pct": {
+    "accel_range": 84.91,
+    "accel_dropout": 0.33,
+    "gyro_range": 1.38,
+    "temp": 0.29,
+    "pressure": 0.29,
+    "light": 1.77
+  },
+  "axis_out_of_range_pct": {
+    "accel_x": 29.13,
+    "accel_y": 58.6,
+    "accel_z": 47.76
+  },
+  "imu_cycles_rejected_pct": 85.39,
+  "isolation_forest_v2": {
+    "samples": 2075,
+    "flagged_by_isolation_forest": 208,
+    "flagged_that_are_sensor_faults": 208,
+    "accel_x_fault_rate": 0.294,
+    "share_of_flags_that_are_faults": 1.0
+  }
+}

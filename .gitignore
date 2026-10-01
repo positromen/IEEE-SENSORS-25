@@ -1,0 +1,6 @@
+myosa-smart-herd-edge/analytics/out/replay_bin
+myosa-smart-herd-edge/firmware/test/test_edge_core
+myosa-smart-herd-edge/firmware/test/replay
+__pycache__/
+*.pyc
+build/

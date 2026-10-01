@@ -1,0 +1,17 @@
+samples=18006
+log_seconds=900
+windows=91
+windows_unknown=4
+seconds_UNKNOWN=40
+seconds_LYING=170
+seconds_RESTING=240
+seconds_GRAZING=150
+seconds_WALKING=120
+seconds_ACTIVE=180
+windows_with_alerts=4
+alert_mask=60
+v2_messages=54018
+v2_bytes=5726948
+v3_messages=15
+v3_bytes=1659
+payload_reduction_pct=100.0

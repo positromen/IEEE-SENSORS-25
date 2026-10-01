@@ -1,0 +1,11 @@
+# v2 Streamlit dashboard (kept for comparison with v3)
+pandas==2.3.1
+numpy==2.2.5
+prophet==1.1.7
+scikit-learn==1.7.1
+scipy==1.16.1
+seaborn==0.13.2
+matplotlib==3.10.3
+plotly==6.2.0
+streamlit==1.47.1
+openpyxl==3.1.5
